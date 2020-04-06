@@ -1,0 +1,6 @@
+x
+y
+b
+b/read
+Mul
+op_to_store

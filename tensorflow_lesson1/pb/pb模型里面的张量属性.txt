@@ -1,0 +1,24 @@
+x
+(<tf.Tensor 'x:0' shape=<unknown> dtype=int32>,)
+y
+(<tf.Tensor 'y:0' shape=<unknown> dtype=int32>,)
+b
+(<tf.Tensor 'b:0' shape=() dtype=int32>,)
+b/read
+(<tf.Tensor 'b/read:0' shape=() dtype=int32>,)
+Mul
+(<tf.Tensor 'Mul:0' shape=<unknown> dtype=int32>,)
+op_to_store
+(<tf.Tensor 'op_to_store:0' shape=<unknown> dtype=int32>,)
+x_1
+(<tf.Tensor 'x_1:0' shape=<unknown> dtype=int32>,)
+y_1
+(<tf.Tensor 'y_1:0' shape=<unknown> dtype=int32>,)
+b_1
+(<tf.Tensor 'b_1:0' shape=() dtype=int32>,)
+b/read_1
+(<tf.Tensor 'b/read_1:0' shape=() dtype=int32>,)
+Mul_1
+(<tf.Tensor 'Mul_1:0' shape=<unknown> dtype=int32>,)
+op_to_store_1
+(<tf.Tensor 'op_to_store_1:0' shape=<unknown> dtype=int32>,)
